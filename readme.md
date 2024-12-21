@@ -5,6 +5,8 @@ EduFi Investment is a decentralized funding platform that empowers students to s
 
 ## Contract Address
 0xF6489ec4E850c3C27a613F5eaEeDa9eE823133DC
+![image](https://github.com/user-attachments/assets/25347214-6f05-4a81-a3e5-0514b7a72990)
+
 
 ## Project Vision
 EduFi Investment aims to revolutionize education funding by creating a transparent and secure ecosystem where:
